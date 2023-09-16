@@ -1,0 +1,21 @@
+add name=Lubeh;numberOfParticipants=7;description=Their music is a mix of rock, Russian folk and military music;genre=POST_ROCK;
+1
+2
+3
+4
+show
+history
+info
+show
+add name=Lu;numberOfParticipants=7;description=Their music is a mix of rock, Russian folk and military music;genre=POST_ROCK;
+1
+2
+3
+4
+add name=Lubeh;numberOfParticipants=20;description=Their music is a mix of rock, Russian folk and military music;genre=POST_ROCK;
+1
+2
+1
+2
+clear
+show

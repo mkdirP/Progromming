@@ -1,0 +1,50 @@
+add name=Lubeh;numberOfParticipants=7;description=Their music is a mix of rock, Russian folk and military music;genre=POST_ROCK;
+1
+2
+3
+4
+show
+history
+info
+remove_by_id 0
+show
+add name=Lu;numberOfParticipants=7;description=Their music is a mix of rock, Russian folk and military music;genre=POST_ROCK;
+1
+2
+3
+4
+update_id id=1;name=lll;
+9
+9
+9
+9
+show
+add name=Lubeh;numberOfParticipants=20;description=Their music is a mix of rock, Russian folk and military music;genre=POST_ROCK;
+1
+2
+1
+2
+show
+remove_lower 12
+show
+remove_all_by_genre POST_ROCK
+show
+add name=Lu;numberOfParticipants=800;description=Their music is a mix of rock, Russian folk and military music;genre=POST_ROCK;
+1
+2
+3
+4
+add name=Lubeh;numberOfParticipants=7;description=Their music is a mix of rock, Russian folk and military music;genre=POST_ROCK;
+1
+2
+1
+6
+add name=777;numberOfParticipants=7;description=Their music is a mix of rock, Russian folk and military music;genre=POST_ROCK;
+1
+2
+6
+6
+filter_starts_with_name Lu
+filter_contains_name be
+clear
+show

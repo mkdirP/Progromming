@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<MusicBands>
+    <MusicBand>
+        <Id>0</Id>
+        <Name>Lubeh</Name>
+        <Coordinates>7.0,7.0</Coordinates>
+        <CreationDate>Fri Oct 07 20:46:10 MSK 2022</CreationDate>
+        <NumberOfParticipants>7</NumberOfParticipants>
+        <Description>Their music is a mix of rock, Russian folk and military music</Description>
+        <Genre>POST_ROCK</Genre>
+        <Label>7,7</Label>
+    </MusicBand>
+    <MusicBand>
+        <Id>1</Id>
+        <Name>Lubeh</Name>
+        <Coordinates>8.0,8.0</Coordinates>
+        <CreationDate>Fri Oct 07 20:46:30 MSK 2022</CreationDate>
+        <NumberOfParticipants>7</NumberOfParticipants>
+        <Description>Their music is a mix of rock, Russian folk and military music</Description>
+        <Genre>POST_ROCK</Genre>
+        <Label>8,8</Label>
+    </MusicBand>
+    <MusicBand>
+        <Id>2</Id>
+        <Name>Lubeh</Name>
+        <Coordinates>9.0,9.0</Coordinates>
+        <CreationDate>Fri Oct 07 20:46:48 MSK 2022</CreationDate>
+        <NumberOfParticipants>7</NumberOfParticipants>
+        <Description>Their music is a mix of rock, Russian folk and military music</Description>
+        <Genre>POST_ROCK</Genre>
+        <Label>9,9</Label>
+    </MusicBand>
+</MusicBands>

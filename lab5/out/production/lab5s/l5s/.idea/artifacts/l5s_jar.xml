@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="l5s:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/l5s_jar</output-path>
+    <root id="archive" name="l5s.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../../META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="l5s" />
+    </root>
+  </artifact>
+</component>
